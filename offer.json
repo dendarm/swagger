@@ -1,0 +1,140 @@
+{
+  "action": "CREATE",
+  "tenantId": "demoxp",
+  "definitionId": "xdmsOffer",
+  "entityId": "rTggDo_fxvReREJTLkljs",
+  "entity": {
+    "additionalTo": {
+      "check": true,
+      "entityId": "DqjNZLvSrmQYOWOwRQWRr",
+      "definitionId": "organization",
+      "createdAt": 1576243971767,
+      "entityOwner": "KLAhjSqdawFumnWvrLRGR",
+      "language": "NL",
+      "name": "Van de Casteele",
+      "title": "Van de Casteele",
+      "vatNumber": "BE 0419.129.872"
+    },
+    "entityId": "rTggDo_fxvReREJTLkljs",
+    "definitionId": "xdmsOffer",
+    "additionalToName": {
+      "check": true,
+      "entityId": "DqjNZLvSrmQYOWOwRQWRr",
+      "definitionId": "organization",
+      "createdAt": 1576243971767,
+      "entityOwner": "KLAhjSqdawFumnWvrLRGR",
+      "language": "NL",
+      "name": "Van de Casteele",
+      "title": "Van de Casteele",
+      "vatNumber": "BE 0419.129.872"
+    },
+    "agreedDeliveryDate": 1619301600000,
+    "co2": 300,
+    "createdAt": 1617607390911,
+    "deliveryDate": 1619215200000,
+    "entityOwner": {
+      "createdAt": 1616422455517,
+      "entityId": "VhkuPJPZtahZIPaublrZH",
+      "definitionId": "contact",
+      "emailPrivate": "test@test.com",
+      "emailWork": "frederik.pardon@weare4c.com",
+      "entityOwner": "_uslfBUfPUEkjaulrwZhm",
+      "firstName": "Frederik",
+      "gender": "XzGFNcQTnSRCzWCURTfrK",
+      "groups": [
+        "hyperUsers",
+        "hyperAdmins"
+      ],
+      "jobTitle": "Implementation consultant - 4C",
+      "language": "EN",
+      "lastName": "Pardon",
+      "platformAdmin": true,
+      "title": "Frederik Pardon"
+    },
+    "euronorm": "500",
+    "expirationDate": 1618005600000,
+    "fiscaleHp": 200,
+    "fuel": {
+      "code": "HYBRID",
+      "entityId": "HYBRID",
+      "definitionId": "fuel",
+      "createdAt": 1617308493339,
+      "entityOwner": "system",
+      "title": "Hybride"
+    },
+    "kw": 100,
+    "lastChangedAt": 1617573600000,
+    "mainCustomer": {
+      "city": "Ekeren",
+      "entityId": "LZlrrUessnepcJDHkHvGU",
+      "definitionId": "organization",
+      "country": "BE",
+      "createdAt": 1617103499393,
+      "email": "test@company.com",
+      "emailPrivate": "test@private.com",
+      "entityOwner": "VhkuPJPZtahZIPaublrZH",
+      "fax": "+326051233",
+      "firstContact": 1614553200000,
+      "laatsteContact": 1616968800000,
+      "language": "EN",
+      "name": "Dixon",
+      "parentCompany": [
+        "PtKojjghcfFCxynKTkMDy"
+      ],
+      "phone": "+326051232",
+      "postalCode": "2180",
+      "street": "Nijverheidslei 147",
+      "title": "Dixon",
+      "xdmsExternalRef": "12345"
+    },
+    "make": {
+      "code": "C",
+      "entityId": "QLlMNgGvjLXPGKUqWAZaW",
+      "definitionId": "make",
+      "createdAt": 1608653861255,
+      "entityOwner": "system",
+      "internalValue": "citroen",
+      "title": "Citröen"
+    },
+    "model": {
+      "code": "1111",
+      "entityId": "qZkvjnSSJsJSmOkOkAvuC",
+      "definitionId": "productLine",
+      "createdAt": 1617607295873,
+      "entityOwner": "VhkuPJPZtahZIPaublrZH",
+      "make": "QLlMNgGvjLXPGKUqWAZaW",
+      "title": "Picasso"
+    },
+    "modelCode": "22222",
+    "modelYear": 2020,
+    "offerCurrency": "EUR",
+    "offerNumber": "12321312321312",
+    "offerUrl": "https://test.url.com",
+    "offerVersion": "1",
+    "opportunityName": "Testerdetest",
+    "prospectDossierId": "11111",
+    "qualified": true,
+    "saleDate": 1617487200000,
+    "salesCode2": {
+      "code": "555",
+      "entityId": "xciViYqCFWPqdFRCAJKud",
+      "definitionId": "salesCode",
+      "createdAt": 1617607339379,
+      "entityOwner": "VhkuPJPZtahZIPaublrZH",
+      "title": "Test Sales Dossier"
+    },
+    "scheduledDeliveryDate": 1619301600000,
+    "stock": true,
+    "title": "HP Test Offer",
+    "totalExclVat": 10000,
+    "totalInclVat": 12000,
+    "vat": 20,
+    "wltp": 400,
+    "xdmsId": "zeaazeazz",
+    "permissions": [
+      "hyperAdmins",
+      "hyperUsers",
+      "ownerIs__VhkuPJPZtahZIPaublrZH"
+    ]
+  }
+}
